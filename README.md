@@ -22,7 +22,6 @@
 <a href="https://trello.com/es" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="40" height="40" /> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.debian.org/" target="_blank"> <img src="https://www.debian.org/Pics/openlogo-50.png" alt="Debian" width="40" height="40" /> </a>
-<a href="https://www.deepin.org/" target="_blank"> <img src="https://caidevoficial.github.io/Curriculum/media/pm/deepin-logo.svg" alt="Deepin" width="40" height="40" /> </a>
 <a href="https://www.ubuntu.org/" target="_blank"> <img src="https://github.com/caidevOficial/Curriculum/blob/main/media/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40" /> </a>  
 <a href="https://www.microsoft.com/es-ar/windows/" target="_blank"> <img src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/windows.svg?raw=true" alt="Windows" width="40" height="40" /> </a> 
 </p>
