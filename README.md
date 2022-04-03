@@ -3,9 +3,9 @@
 
 <h3 align="center">
   Welcome! https://vshkodin.github.io/
-  
 </h3>
 
+![A058A444-064C-412A-A560-3EF85451A05E](https://user-images.githubusercontent.com/26489401/161444670-f44f0bf6-f52f-4688-8b75-8adcf644452c.GIF)
 
 
 ```python
