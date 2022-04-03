@@ -7,7 +7,7 @@
 
 ![A058A444-064C-412A-A560-3EF85451A05E](https://user-images.githubusercontent.com/26489401/161444670-f44f0bf6-f52f-4688-8b75-8adcf644452c.GIF)
 
-
+<!--
 ```python
 success: bool = False
 while not success:
@@ -17,7 +17,7 @@ while not success:
         continue
     success: bool = True
 ```
-
+-->
 
 <center>
   <table>
