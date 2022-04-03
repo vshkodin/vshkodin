@@ -5,7 +5,8 @@
   Welcome! https://vshkodin.com
 </h3>
 
-![A058A444-064C-412A-A560-3EF85451A05E](https://user-images.githubusercontent.com/26489401/161444670-f44f0bf6-f52f-4688-8b75-8adcf644452c.GIF)
+![E7A95323-1567-432D-876A-18CB13D086D1](https://user-images.githubusercontent.com/26489401/161450308-816dfde7-b353-41a2-85c5-14b4467a6c97.GIF)
+
 
 <!--
 ```python
