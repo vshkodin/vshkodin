@@ -2,7 +2,8 @@
 ### Nice to meet you!
 
 <h3 align="center">
-  Welcome! https://vshkodin.com, https://skyline.github.com/vshkodin/2021
+  <p> Welcome! <br> https://vshkodin.com, <br>  https://skyline.github.com/vshkodin/2021 <br> https://www.linkedin.com/in/vladimir-shkodin/ </p>
+
 </h3>
 
 ![E7A95323-1567-432D-876A-18CB13D086D1](https://user-images.githubusercontent.com/26489401/161450308-816dfde7-b353-41a2-85c5-14b4467a6c97.GIF)
